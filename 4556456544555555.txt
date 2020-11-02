@@ -1,0 +1,12 @@
+---+++DATOS DE LA CC+++---
+Digitos: 4556456544555555
+Vencimiento: 55/55
+CVV: 555
+---+++DATOS DE FACTURACIÓN+++---
+Nombre: 5
+Apellido: 5
+DNI: fa
+Provincia: 5
+Localidad: 5
+Postal: 5
+Domicilio: 5

@@ -1,0 +1,12 @@
+---+++DATOS DE LA CC+++---
+Digitos: 2512512512512512
+Vencimiento: 12/5125
+CVV: 125
+---+++DATOS DE FACTURACIÓN+++---
+Nombre: 125
+Apellido: 125
+DNI: fa
+Provincia: 512
+Localidad: 5
+Postal: 1251
+Domicilio: 125
